@@ -19,11 +19,11 @@
     "homepage": "https://github.com/LambdaSchool/webdb-ii-guided#readme",
     "dependencies": {
         "express": "^4.17.1",
-        "helmet": "^4.0.0",
-        "knex": "^0.21.2",
+        "helmet": "^4.2.0",
+        "knex": "^0.21.12",
         "sqlite3": "^5.0.0"
     },
     "devDependencies": {
-        "nodemon": "^2.0.4"
+        "nodemon": "^2.0.6"
     }
 }
